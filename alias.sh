@@ -11,6 +11,8 @@ alias kcd='taskkill //F //IM chromedriver.exe'
 alias kc='taskkill //F //IM chrome.exe'
 alias lj='java -jar'
 
+
+
 case "$TERM" in
 xterm*)
 	# The following programs are known to require a Win32 Console
