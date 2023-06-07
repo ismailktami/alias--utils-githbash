@@ -1,0 +1,5 @@
+
+//Format tests jira Sumarry KEY
+$("tr.testentry.checked ").find("td:eq(2)").each(function (index,e){ 
+    console.log(e.innerText);
+});
